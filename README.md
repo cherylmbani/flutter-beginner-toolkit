@@ -39,6 +39,18 @@ flutter run -d chrome
 
 - After pressing the button: Text changes to “Flutter is interactive!”, color becomes blue, font size 32. Pressing again toggles back.
 
+## Documentation
+For a comprehensive guide including detailed code explanations, Flutter fundamentals, troubleshooting common issues, and next learning steps, visit the full documentation:
+[Complete Documentation](https://github.com/cherylmbani/toolkit-documentation)
+What's covered:
+
+Line-by-line code breakdown
+Flutter concepts explained (Widgets, State, setState)
+Comparison with React for web developers
+Common errors and their solutions
+Git setup and best practices
+Recommended learning path
+
 ## License
 This project is licensed under the MIT License.  
 **Author:** Cheryl Mbani  
