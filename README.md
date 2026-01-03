@@ -39,7 +39,7 @@ flutter run -d chrome
 
 - After pressing the button: Text changes to “Flutter is interactive!”, color becomes blue, font size 32. Pressing again toggles back.
 
-## Documentation
+## Toolkit Documentation
 For a comprehensive guide including detailed code explanations, Flutter fundamentals, troubleshooting common issues, and next learning steps, visit the full documentation:
 [Complete Documentation](https://github.com/cherylmbani/toolkit-documentation)
 What's covered:
